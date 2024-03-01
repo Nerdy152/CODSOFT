@@ -1,5 +1,3 @@
-# CODSOFT
-
 👋 Hi, I’m @Nerdy152
 👀 I’m currently doing Web Dev
 🌱 I’m currently learning Javascript...
